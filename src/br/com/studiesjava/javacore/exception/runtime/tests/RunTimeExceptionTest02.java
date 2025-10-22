@@ -1,8 +1,8 @@
 package br.com.studiesjava.javacore.exception.runtime.tests;
 
-public class RunTimeExceptionTests02 {
+public class RunTimeExceptionTest02 {
     public static void main(String[] args) {
-        System.out.println(RunTimeExceptionTests02.division(1, 0));
+        System.out.println(RunTimeExceptionTest02.division(1, 0));
     }
 
 
