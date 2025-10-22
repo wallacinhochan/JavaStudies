@@ -1,0 +1,36 @@
+# ===============================
+# 🧠 Projeto Java - IntelliJ IDEA
+# ===============================
+
+# Diretórios de build / compilação
+/out/
+target/
+build/
+
+# Arquivos e pastas da IDE IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos compilados
+*.class
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Configurações locais do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Dependências locais (Maven/Gradle)
+.mvn/
+.gradle/
+
+# Outros arquivos que não precisam ir para o repositório
+*.jar
